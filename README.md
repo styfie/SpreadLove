@@ -4,6 +4,9 @@
 
 This project is inspired by **Halle Bailey**’s X account and uses a fictional “love & kindness” theme to demonstrate AI moderation of toxic content.
 
+Visit the Web:
+https://spreadlove.streamlit.app/
+
 ---
 
 ## ⚡ Features
